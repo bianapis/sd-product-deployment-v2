@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRProductOrServiceDeploymentProjectCreateInputModelProductServiceDeploymentProjectInstanceRecordProductServiceDeploymentImplementationPlan;
+
+import javax.validation.Valid;
+  
+/**
+ * CRProductOrServiceDeploymentProjectCaptureInputModelProductServiceDeploymentProjectInstanceRecord
+ */
+public class CRProductOrServiceDeploymentProjectCaptureInputModelProductServiceDeploymentProjectInstanceRecord   {
+  private CRProductOrServiceDeploymentProjectCreateInputModelProductServiceDeploymentProjectInstanceRecordProductServiceDeploymentImplementationPlan productServiceDeploymentImplementationPlan = null;
+
+
+  /**
+   * Get productServiceDeploymentImplementationPlan
+   * @return productServiceDeploymentImplementationPlan
+  **/
+
+  public CRProductOrServiceDeploymentProjectCreateInputModelProductServiceDeploymentProjectInstanceRecordProductServiceDeploymentImplementationPlan getProductServiceDeploymentImplementationPlan() {
+    return productServiceDeploymentImplementationPlan;
+  }
+
+  public void setProductServiceDeploymentImplementationPlan(CRProductOrServiceDeploymentProjectCreateInputModelProductServiceDeploymentProjectInstanceRecordProductServiceDeploymentImplementationPlan productServiceDeploymentImplementationPlan) {
+    this.productServiceDeploymentImplementationPlan = productServiceDeploymentImplementationPlan;
+  }
+
+
+}
+

@@ -1,0 +1,22 @@
+{
+  "productionSupportUpdateActionTaskReference" : "PSUATR739181",
+  "productionSupportInstanceRecord" : {
+    "productServiceDeploymentProductionSupportRequirements" : {
+      "productServiceDeploymentProductionSupportRequirementsTaskSpecification" : "productServiceDeploymentProductionSupportRequirementsTaskSpecification",
+      "productServiceDeploymentProductionSupportRequirementsWorkProducts" : "productServiceDeploymentProductionSupportRequirementsWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "733519"
+    }
+  },
+  "updateResponseRecord" : {},
+  "productionSupportUpdateActionTaskRecord" : {},
+  "productServiceDeploymentProjectInstanceRecord" : {
+    "productServiceDeploymentImplementationPlan" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "productServiceDeploymentOrganization" : "productServiceDeploymentOrganization",
+      "productServiceDeploymentBudget" : "productServiceDeploymentBudget",
+      "productServiceDeploymentSchedule" : "productServiceDeploymentSchedule"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "hROperationsInstanceRecord" : {
+    "productServiceDeploymentHROperationsRequirements" : {
+      "productServiceDeploymentHROperationsRequirementsTaskSpecification" : "productServiceDeploymentHROperationsRequirementsTaskSpecification",
+      "productServiceDeploymentHROperationsRequirementsWorkProducts" : "productServiceDeploymentHROperationsRequirementsWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "764245"
+    }
+  },
+  "updateResponseRecord" : {},
+  "productServiceDeploymentProjectInstanceRecord" : {
+    "productServiceDeploymentImplementationPlan" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "productServiceDeploymentOrganization" : "productServiceDeploymentOrganization",
+      "productServiceDeploymentBudget" : "productServiceDeploymentBudget",
+      "productServiceDeploymentSchedule" : "productServiceDeploymentSchedule"
+    }
+  },
+  "hROperationsUpdateActionTaskRecord" : {},
+  "hROperationsUpdateActionTaskReference" : "HOUATR731650"
+}

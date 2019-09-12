@@ -1,0 +1,33 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecordProductServiceDeploymentSalesandMarketingRequirements;
+
+import javax.validation.Valid;
+  
+/**
+ * BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecord
+ */
+public class BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecord   {
+  private BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecordProductServiceDeploymentSalesandMarketingRequirements productServiceDeploymentSalesandMarketingRequirements = null;
+
+
+  /**
+   * Get productServiceDeploymentSalesandMarketingRequirements
+   * @return productServiceDeploymentSalesandMarketingRequirements
+  **/
+
+  public BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecordProductServiceDeploymentSalesandMarketingRequirements getProductServiceDeploymentSalesandMarketingRequirements() {
+    return productServiceDeploymentSalesandMarketingRequirements;
+  }
+
+  public void setProductServiceDeploymentSalesandMarketingRequirements(BQSalesandMarketingRetrieveOutputModelSalesandMarketingInstanceRecordProductServiceDeploymentSalesandMarketingRequirements productServiceDeploymentSalesandMarketingRequirements) {
+    this.productServiceDeploymentSalesandMarketingRequirements = productServiceDeploymentSalesandMarketingRequirements;
+  }
+
+
+}
+

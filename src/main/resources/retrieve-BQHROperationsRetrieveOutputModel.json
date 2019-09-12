@@ -1,0 +1,34 @@
+{
+  "hROperationsInstanceRecord" : {
+    "productServiceDeploymentHROperationsRequirements" : {
+      "productServiceDeploymentHROperationsRequirementsTaskSpecification" : "productServiceDeploymentHROperationsRequirementsTaskSpecification",
+      "productServiceDeploymentHROperationsRequirementsWorkProducts" : "productServiceDeploymentHROperationsRequirementsWorkProducts",
+      "documentDirectoryEntryInstanceReference" : "729714"
+    }
+  },
+  "hROperationsRetrieveActionResponse" : "hROperationsRetrieveActionResponse",
+  "hROperationsRetrieveActionTaskRecord" : {},
+  "hROperationsRetrieveActionTaskReference" : "HORATR797455",
+  "productServiceDeploymentProjectInstanceRecord" : {
+    "productServiceDeploymentImplementationPlan" : {
+      "dateType" : {
+        "date" : "09-22-2018"
+      },
+      "productServiceDeploymentOrganization" : "productServiceDeploymentOrganization",
+      "productServiceDeploymentBudget" : "productServiceDeploymentBudget",
+      "productServiceDeploymentSchedule" : "productServiceDeploymentSchedule"
+    }
+  },
+  "hROperationsInstanceReport" : {
+    "hROperationsInstanceReportParameters" : "hROperationsInstanceReportParameters",
+    "hROperationsInstanceReportRecord" : {},
+    "hROperationsInstanceReportType" : "hROperationsInstanceReportType",
+    "hROperationsInstanceReport" : {}
+  },
+  "hROperationsInstanceAnalysis" : {
+    "hROperationsInstanceAnalysisRecord" : {},
+    "hROperationsInstanceAnalysisParameters" : "hROperationsInstanceAnalysisParameters",
+    "hROperationsInstanceAnalysisReport" : {},
+    "hROperationsInstanceAnalysisReportType" : "hROperationsInstanceAnalysisReportType"
+  }
+}
